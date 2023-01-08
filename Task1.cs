@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.Clear();
             Console.WriteLine("Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1.");
             int n = InputNumbers("Введите n: ");
-            int x = 2;
+            int y = 2;
             PrintNumberToConsole(n, y);
             Console.Write(1);
 
